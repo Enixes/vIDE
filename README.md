@@ -1,2 +1,2 @@
-# MyVim-IDE
-Personal IDE for C++ and Python development 
+# MyVim-IDE : A snappy IDE for Competitive Programming
+Your Personal IDE for C++ and Python development 
