@@ -4,7 +4,7 @@ A beautiful customizable IDE based on Vim
 ## Pre-requisites
 Vim (obviously)\
 Python\
-Basic terminal knowledge\
+Basic terminal knowledge
 
 ## Installation (Linux)
 ### Step 1:
