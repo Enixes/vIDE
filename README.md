@@ -44,3 +44,5 @@ Now type and wait about 10 minutes for all the plugins to install.
 :PluginInstall
 ```
 ### Restart vim and enjoy your new personal IDE
+For VIM shortcuts:
+https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/
