@@ -43,7 +43,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 Finally the last step, bare with me
 ### Step 7:
-Now run vim and ignore the errors by pressing ENTER\
+Now run vim and ignore the errors and press ENTER\
 Now type and wait about 10 minutes for all the plugins to install.
 ```
 :PluginInstall
