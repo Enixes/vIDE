@@ -2,9 +2,9 @@
 A beautiful customizable IDE based on Vim
   
 ## Pre-requisites
-Vim (obviously)/
-Python/
-Basic terminal knowledge/
+Vim (obviously)\
+Python\
+Basic terminal knowledge\
 
 ## Installation (Linux)
 ### Step 1:
@@ -27,8 +27,8 @@ Copy the .vim to root directory
 cp -R .vim/ ~/
 ```
 ### Step 5:
-Make a new project directory and copy the .ycm_extra_conf.py  to the same /
-This will enable the code completion (YouCompleteMe) for the files in the project directory/
+Make a new project directory and copy the .ycm_extra_conf.py  to the same \
+This will enable the code completion (YouCompleteMe) for the files in the project directory\
 For example:
 ```
 mkdir ~/MyCppfiles
@@ -43,7 +43,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 Finally the last step, bare with me
 ### Step 7:
-Now run vim and ignore the errors by pressing ENTER/
+Now run vim and ignore the errors by pressing ENTER\
 Now type and wait about 10 minutes for all the plugins to install.
 ```
 :PluginInstall
