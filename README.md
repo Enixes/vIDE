@@ -1,6 +1,11 @@
 # vIDE : A snappy IDE for Competitive Programming
 A beautiful customizable IDE based on Vim
   
+## Pre-requisites
+Vim (obviously)
+Python
+Basic terminal knowledge
+
 ## Installation (Linux)
 ### Step 1:
 Open terminal and execute the following
