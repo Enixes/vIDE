@@ -50,8 +50,9 @@ Now type and wait about 10 minutes for all the plugins to install.
 ```
 ### Restart vim and enjoy your new personal IDE
 ## Screenshot
-
+### GVim
 ![Alt Text](https://github.com/Enixes/vIDE/blob/master/DeepinScreenshot_20190604165911.png)
-
+#### In terminal
+![Alt Text](https://github.com/Enixes/vIDE/blob/master/DeepinScreenshot_20190604171110.png)
 For VIM shortcuts:
 https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/
