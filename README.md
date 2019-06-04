@@ -49,5 +49,9 @@ Now type and wait about 10 minutes for all the plugins to install.
 :PluginInstall
 ```
 ### Restart vim and enjoy your new personal IDE
+## Screenshot
+
+![alt text](https://raw.githubusercontent.com/Enixes/vIDE/blob/master/DeepinScreenshot_20190604165911.png)
+
 For VIM shortcuts:
 https://www.maketecheasier.com/vim-keyboard-shortcuts-cheatsheet/
