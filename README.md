@@ -29,15 +29,15 @@ Copy the .vim to root directory
 $ cp -R .vim/ ~/
 ```
 ### Step 5:
-Make a new project directory and copy the .ycm_extra_conf.py  to the same \
-This will enable the code completion (YouCompleteMe) for the files in the project directory\
-For example:
+Make a new project directory
 ```
 $ mkdir ~/MyCppfiles
 ```
+copy the .ycm_extra_conf.py  to the same \
 ```
 $ cp .ycm_extra_conf.py ~/MyCppfiles
 ```
+This will enable the code completion (YouCompleteMe) for the files in the project directory\
 ### Step 6:
 Install Plugin Manager Vundle
 ```
