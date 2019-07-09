@@ -45,7 +45,7 @@ $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 Finally the last step, bare with me
 ### Step 7:
-Now run vim and ignore the errors and press ENTER\
+Now run vim and ignore the errors and press ENTER
 ```
 $ gvim
 ```
