@@ -12,42 +12,42 @@ Basic terminal knowledge
 ### Step 1:
 Open terminal and execute the following
 ```
-git clone https://github.com/Enixes/vIDE.git 
+$ git clone https://github.com/Enixes/vIDE.git 
 ```
 ### Step 2:
 ```
-cd vIDE/
+$ cd vIDE/
 ```
 ### Step 3:
 Copy the vimrc file to ~/ (root directory)
 ```
-cp .vimrc ~/
+$ cp .vimrc ~/
 ```
 ### Step 4:
 Copy the .vim to root directory
 ```
-cp -R .vim/ ~/
+$ cp -R .vim/ ~/
 ```
 ### Step 5:
 Make a new project directory and copy the .ycm_extra_conf.py  to the same \
 This will enable the code completion (YouCompleteMe) for the files in the project directory\
 For example:
 ```
-mkdir ~/MyCppfiles
+$ mkdir ~/MyCppfiles
 ```
 ```
-cp .ycm_extra_conf.py ~/MyCppfiles
+$ cp .ycm_extra_conf.py ~/MyCppfiles
 ```
 ### Step 6:
 Install Plugin Manager Vundle
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 Finally the last step, bare with me
 ### Step 7:
 Now run vim and ignore the errors and press ENTER\
 ```
-$gvim
+$ gvim
 ```
 Now type 
 ```
