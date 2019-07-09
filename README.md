@@ -1,6 +1,8 @@
 # vIDE : A snappy IDE for Competitive Programming
 A beautiful customizable IDE based on Vim
-  
+
+![Alt Text](https://github.com/Enixes/vIDE/blob/master/DeepinScreenshot_20190604165911.png)
+
 ## Pre-requisites
 Vim (obviously)\
 Python\
@@ -44,10 +46,14 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 Finally the last step, bare with me
 ### Step 7:
 Now run vim and ignore the errors and press ENTER\
-Now type and wait about 10 minutes for all the plugins to install.
+```
+$gvim
+```
+Now type 
 ```
 :PluginInstall
 ```
+and wait about 10 minutes for all the plugins to install.
 ### Restart vim and enjoy your new personal IDE
 ## Screenshots
 ### GVim
