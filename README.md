@@ -33,11 +33,11 @@ Make a new project directory
 ```
 $ mkdir ~/MyCppfiles
 ```
-copy the .ycm_extra_conf.py  to the same \
+copy the .ycm_extra_conf.py  to the same 
 ```
 $ cp .ycm_extra_conf.py ~/MyCppfiles
 ```
-This will enable the code completion (YouCompleteMe) for the files in the project directory\
+This will enable the code completion (YouCompleteMe) for the files in the project directory
 ### Step 6:
 Install Plugin Manager Vundle
 ```
